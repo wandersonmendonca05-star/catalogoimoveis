@@ -1,0 +1,7 @@
+{
+  "name": "Imóveis Marabá - Catálogo",
+  "description": "Uma plataforma moderna e completa para gestão e visualização de imóveis em Marabá e região, com painel administrativo intuitivo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
